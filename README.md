@@ -25,7 +25,7 @@
 
         <!--<li class="nav-item" ><a class="nav-link" href="#"></a></li>-->
     </ul>
-    <div class="row">
+    <div class="row"> 
         <div class="input-group">
       <form action="" class="form-inline">
 
